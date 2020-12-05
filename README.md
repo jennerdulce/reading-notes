@@ -62,7 +62,9 @@ Jim Kwik
 [Day 14a]()
 
 [Day 14b](https://github.com/jennerdulce/201-reading-notes/blob/master/class-14b.md)
+
 ## Code 301 - Intermediate Software Development
-[]()
+[Day 01](https://github.com/jennerdulce/reading-notes/blob/main/class-01.md)
+
 ## Code 401 - Advanced Software Development
 []()
