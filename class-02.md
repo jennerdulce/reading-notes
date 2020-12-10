@@ -43,7 +43,7 @@ $(function() {
 `$('li:contains('word')')`
 - targets the li that has word in the text content
 
-## Get/Set CSS properties
+### Get/Set CSS properties
 - `.css()` method lets you get or set the values of CSS properties
 - `var color = $('li').css('color')` // gets
 - `$('li').css('color', 'blue')` // sets
@@ -64,4 +64,64 @@ $(function() {
 - `.before()` // outside of the element
 - `.after()` // outside of the element
 
+### Working with Each Eement in a section
+- There will be times when you want to loop though each element
+- `.each()` get info of each element in a match set
+- perform a series of actions rather all at one time
+```
+$('li').each( function() {
+  $(this).append('<span class="remove">X</span>
+  $('.remove').on('click', function() {
+    $(this).parent().remove()
+)};
+```
+
+### Event Methods
+- `.on()` method used to handle all events
+```
+$('li').on('click', function() {
+  $(this).toggleClass('complete')
+```
+
+#### Common Event Methods
+- UI: focus, blur, change
+- KEYBOARD: input, keydown/up/press
+- MOUSE: click, dblcllick, mouseup/down/over/move/out, hover
+- FORM: submit, change, select, 
+- DOCUMENT: ready, load, unload
+- BROWSER: error, resize, scroll
+
+### The Event Object
+- Every event handling receives an event object
+```
+$('li').on('click', function(event/e) {
+  $(this).toggleClass('complete')
+```
+- `e.preventDefault()`
+- `e.stopPropagation()`
+
+```
+.on(event(s), [another selector ':not(#four)'], [data], function() {
+  // codeblock
+});
+```
+
+
 ## 6 Reasons Why for Pair Programming
+1. Greater Efficiency
+- takes slightly longer but produces higher-quality code
+- doesnt require debugging or troubleshooting
+
+2. Engaged Collaboration
+- Both people are focused
+- boosts confidence by increaseing chance to solve problem without help of the TA
+
+3. Learn though processes from other students
+
+4. Social Skills improved and developed interpersonal skills
+
+5. Job interview Readiness
+- carry out exercises together
+
+6. Work environment readiness
+- familiar with partner pairing and job like tasks
