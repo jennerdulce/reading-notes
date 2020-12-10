@@ -66,5 +66,7 @@ Jim Kwik
 ## Code 301 - Intermediate Software Development
 [Day 01](https://github.com/jennerdulce/reading-notes/blob/main/class-01.md)
 
+[Day 02](https://github.com/jennerdulce/reading-notes/blob/main/class-02.md)
+
 ## Code 401 - Advanced Software Development
 []()
