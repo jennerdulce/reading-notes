@@ -72,5 +72,8 @@ Jim Kwik
 
 [Day 04](https://github.com/jennerdulce/reading-notes/blob/main/class-04.md)
 
+[Day 05](https://github.com/jennerdulce/reading-notes/blob/main/class-05.md)
+
+
 ## Code 401 - Advanced Software Development
 []()
