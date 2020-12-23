@@ -35,3 +35,29 @@ console.log('listening on http://localhost:3000')
 - finally we tell the server to listen for incoming requests on port 3000
 
 ## Express
+- express is one of node's most popular packages.
+- express is a web development framework
+- is a server side backend framework
+- often used in conjunction with clientside framework (REACT)
+- makes building apps with node easier
+- full control of request and response
+
+
+## API (application programmable interface)
+- helps multiple programs work together
+1. Access to data
+  - i.e. weather app; apple uses 3rd party api from the weather channel to exchange data and display the weather.
+  - APPLE the company itself does not have their own set of weather data.
+  - APIs allow different apps and services to exchange information
+  
+2. Hide complexity/perform tasks
+  - Operating system gives developers a bunch of APIs to simplify complexities of how apps work
+  - allows users to just use rather than build the whole thing on their own
+  
+3. extend functionality
+  - siri, alexa, google home
+  - phone asking permission: for gps, access photos
+  
+4. Security
+  - gives users permission to allow/deny program access to personal data: photos, location, contact information
+  
