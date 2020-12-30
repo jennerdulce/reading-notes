@@ -9,11 +9,15 @@
 - Architecture style for desigining networked application
 - Reliies on stateless, client-server protocol
 - *HTTP*: foundation of web communication 
+  - Is the first thing you type into a browser to access a specific site or location (protocol)
+    - Protocols describe the location from something from anywhere around the world Like GPS coordinates
   - HTTP is a server somewhere
   - treats server objects as resources that can be created/destroyed (posted and deleted)
 - Can be virturally used by any programming langugage
 - *REST* lets us use HTTP requests to format API messages
+  - Whole web is designed based on REST
 - *RESTFUL* means conforming to *REST* constraints
+- webpages are representations of resources
 
 ### HTTP Methods
 - *GET*: retrieve data from specified resource  
