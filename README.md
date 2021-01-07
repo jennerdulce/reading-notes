@@ -64,19 +64,23 @@ Jim Kwik
 [Day 14b](https://github.com/jennerdulce/201-reading-notes/blob/master/class-14b.md)
 
 ## Code 301 - Intermediate Software Development
-[Day 01](https://github.com/jennerdulce/reading-notes/blob/main/class-01.md)
+[Day 01 - Responsive Web Design](https://github.com/jennerdulce/reading-notes/blob/main/class-01.md)
 
 [Day 02](https://github.com/jennerdulce/reading-notes/blob/main/class-02.md)
 
-[Day 03](https://github.com/jennerdulce/reading-notes/blob/main/class-03.md)
+[Day 03 - Mustache Templating](https://github.com/jennerdulce/reading-notes/blob/main/class-03.md)
 
-[Day 04](https://github.com/jennerdulce/reading-notes/blob/main/class-04.md)
+[Day 04 - Grid](https://github.com/jennerdulce/reading-notes/blob/main/class-04.md)
 
-[Day 05](https://github.com/jennerdulce/reading-notes/blob/main/class-05.md)
+[Day 05 - Heroku](https://github.com/jennerdulce/reading-notes/blob/main/class-05.md)
 
-[Day 06](https://github.com/jennerdulce/reading-notes/blob/main/class-06.md)
+[Day 06 - Node](https://github.com/jennerdulce/reading-notes/blob/main/class-06.md)
 
-[Day 07](https://github.com/jennerdulce/reading-notes/blob/main/class-07.md)
+[Day 07- API (Application Program Interface)](https://github.com/jennerdulce/reading-notes/blob/main/class-07.md)
+
+[Day 08 - SQL (Structured Query Language)](https://github.com/jennerdulce/reading-notes/blob/main/class-08-SQL.md)
+
+
 
 ## Code 401 - Advanced Software Development
 []()
