@@ -80,6 +80,8 @@ Jim Kwik
 
 [Day 08 - SQL (Structured Query Language)](https://github.com/jennerdulce/reading-notes/blob/main/class-08-SQL.md)
 
+[Day 09 - Functional Programming and Refactoring](https://github.com/jennerdulce/reading-notes/blob/main/class-09-Refactoring.md)
+
 
 
 ## Code 401 - Advanced Software Development
