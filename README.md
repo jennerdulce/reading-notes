@@ -82,6 +82,7 @@ Jim Kwik
 
 [Day 09 - Functional Programming and Refactoring](https://github.com/jennerdulce/reading-notes/blob/main/class-09-Refactoring.md)
 
+[Day 10 - Call Stack and Debugging](https://github.com/jennerdulce/reading-notes/blob/main/class-10-Callstack.md)
 
 
 ## Code 401 - Advanced Software Development
