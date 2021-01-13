@@ -35,4 +35,23 @@
 3. function invocation creates a stack that temporarily occupies memory
 4. last in, first out
 
-## Flexbox
+## Debugging
+- errors:
+  -reference, syntax, range
+- always console.log() to find bugs
+- can use the line `'debugger'` in any part of your code  
+  - using this line will display a call stack in the terminal
+- [object Object] means that the object was turned into a string and is no longer an object
+- `console.table()` if used on an object with properties, will give you a visual table representation on the terminal
+- `try .. catch(error)` sort of like a if else statement,
+  - if you make an error, code will continue to run without problems
+  ```
+  try {
+  // code block
+  }
+  
+  catch(error){
+  console.error(error);
+  return default_value_you_choose
+  }
+  ```
