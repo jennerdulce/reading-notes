@@ -84,6 +84,11 @@ Jim Kwik
 
 [Day 10 - Call Stack and Debugging](https://github.com/jennerdulce/reading-notes/blob/main/class-10-Callstack.md)
 
+[Day 12 - Components (EJS)](https://github.com/jennerdulce/reading-notes/blob/main/class-12-Components.md)
+
+[Day 13 - UPDATE/DELETE (SQL / CRUD)](https://github.com/jennerdulce/reading-notes/blob/main/class-13-UpdateDelete.md)
+
+[Day 14a - Database Normalization](https://github.com/jennerdulce/reading-notes/blob/main/class-14a-DB%20Normalization.md)
 
 ## Code 401 - Advanced Software Development
 []()
