@@ -91,4 +91,4 @@ Jim Kwik
 [Day 14a - Database Normalization](https://github.com/jennerdulce/reading-notes/blob/main/class-14a-DB%20Normalization.md)
 
 ## Code 401 - Advanced Software Development
-[]()
+[Day 1 - Node Ecosystem, TDD, CI/CD](https://github.com/jennerdulce/reading-notes/blob/main/401-class-01.md)
