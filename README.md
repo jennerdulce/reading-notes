@@ -92,3 +92,5 @@ Jim Kwik
 
 ## Code 401 - Advanced Software Development
 [Day 1 - Node Ecosystem, TDD, CI/CD](https://github.com/jennerdulce/reading-notes/blob/main/401-class-01.md)
+
+[Day 2 - Express](https://github.com/jennerdulce/reading-notes/blob/main/401-class-02.md)
