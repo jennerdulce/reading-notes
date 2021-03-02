@@ -91,6 +91,11 @@ Jim Kwik
 [Day 14a - Database Normalization](https://github.com/jennerdulce/reading-notes/blob/main/class-14a-DB%20Normalization.md)
 
 ## Code 401 - Advanced Software Development
-[Day 1 - Node Ecosystem, TDD, CI/CD](https://github.com/jennerdulce/reading-notes/blob/main/401-class-01.md)
+- [Day 1 - Node Ecosystem, TDD, CI/CD](https://github.com/jennerdulce/reading-notes/blob/main/401-class-01.md)
 
-[Day 2 - Express](https://github.com/jennerdulce/reading-notes/blob/main/401-class-02.md)
+- [Day 2 - Express](https://github.com/jennerdulce/reading-notes/blob/main/401-class-02.md)
+
+- [Day 3 - Express REST Api](https://github.com/jennerdulce/reading-notes/blob/main/401-class-03.md)
+
+- [Day 4 - Data Modeling](https://github.com/jennerdulce/reading-notes/blob/main/401-class-04.md)
+
