@@ -99,3 +99,5 @@ Jim Kwik
 
 - [Day 4 - Data Modeling](https://github.com/jennerdulce/reading-notes/blob/main/401-class-04.md)
 
+- [Day 5 - Linked Lists and Big O](https://github.com/jennerdulce/reading-notes/blob/main/401-class-05.md)
+
