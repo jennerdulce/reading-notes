@@ -101,3 +101,7 @@ Jim Kwik
 
 - [Day 5 - Linked Lists and Big O](https://github.com/jennerdulce/reading-notes/blob/main/401-class-05.md)
 
+- [Day 6 - Authentication](https://github.com/jennerdulce/reading-notes/blob/main/401-class-06.md)
+
+- [Day 7 - Bearer Authorization](https://github.com/jennerdulce/reading-notes/blob/main/401-class-07.md)
+
