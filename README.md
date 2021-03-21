@@ -105,3 +105,5 @@ Jim Kwik
 
 - [Day 7 - Bearer Authorization](https://github.com/jennerdulce/reading-notes/blob/main/401-class-07.md)
 
+- [Day 8 - Access Control (ACL)](https://github.com/jennerdulce/reading-notes/blob/main/401-class-08.md)
+
