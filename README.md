@@ -107,3 +107,14 @@ Jim Kwik
 
 - [Day 8 - Access Control (ACL)](https://github.com/jennerdulce/reading-notes/blob/main/401-class-08.md)
 
+- [Day 9 - Stacks and Queues](https://github.com/jennerdulce/reading-notes/blob/main/401-class-09.md)
+
+- [Day 11 - Linked Lists and Big O](https://github.com/jennerdulce/reading-notes/blob/main/401-class-11.md)
+
+- [Day 12 - Event Driven Application](https://github.com/jennerdulce/reading-notes/blob/main/401-class-12.md)
+
+- [Day 13 - Message Queues](https://github.com/jennerdulce/reading-notes/blob/main/401-class-13.md)
+
+- [Day 14 - Event Driven Architecture](https://github.com/jennerdulce/reading-notes/blob/main/401-class-14.md)
+
+
