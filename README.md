@@ -117,4 +117,14 @@ Jim Kwik
 
 - [Day 14 - Event Driven Architecture](https://github.com/jennerdulce/reading-notes/blob/main/401-class-14.md)
 
+- [Day 17 - AWS: S3 and Lambda](https://github.com/jennerdulce/reading-notes/blob/main/401-class-17.md)
 
+- [Day 18 - AWS: API, Dynamo and Lambda](https://github.com/jennerdulce/reading-notes/blob/main/401-class-18.md)
+
+- [Day 19 - AWS: Events](https://github.com/jennerdulce/reading-notes/blob/main/401-class-19.md)
+
+- [Day 26 - Component Based UI](https://github.com/jennerdulce/reading-notes/blob/main/401-class-26.md)
+
+- [Day 27 - Props and State](https://github.com/jennerdulce/reading-notes/blob/main/401-class-27.md)
+
+- [Day 28 - Component Composition](https://github.com/jennerdulce/reading-notes/blob/main/401-class-28.md)
