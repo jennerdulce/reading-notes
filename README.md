@@ -128,3 +128,9 @@ Jim Kwik
 - [Day 27 - Props and State](https://github.com/jennerdulce/reading-notes/blob/main/401-class-27.md)
 
 - [Day 28 - Component Composition](https://github.com/jennerdulce/reading-notes/blob/main/401-class-28.md)
+
+- [Day 29 - Routing](https://github.com/jennerdulce/reading-notes/blob/main/401-class-29.md)
+
+- [Day 30 - Hash Tables](https://github.com/jennerdulce/reading-notes/blob/main/401-class-30.md)
+
+- [Day 31 - Hooks API](https://github.com/jennerdulce/reading-notes/blob/main/401-class-31.md)
