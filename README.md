@@ -90,7 +90,7 @@ Jim Kwik
 
 [Day 14a - Database Normalization](https://github.com/jennerdulce/reading-notes/blob/main/class-14a-DB%20Normalization.md)
 
-## Code 401 - Advanced Software Development
+## Code 401 - JavaScript Advanced Software Development
 - [Day 1 - Node Ecosystem, TDD, CI/CD](https://github.com/jennerdulce/reading-notes/blob/main/401-class-01.md)
 
 - [Day 2 - Express](https://github.com/jennerdulce/reading-notes/blob/main/401-class-02.md)
@@ -134,3 +134,6 @@ Jim Kwik
 - [Day 30 - Hash Tables](https://github.com/jennerdulce/reading-notes/blob/main/401-class-30.md)
 
 - [Day 31 - Hooks API](https://github.com/jennerdulce/reading-notes/blob/main/401-class-31.md)
+
+## Code 401 - Java Advanced Software Development
+- [Day 1 - Java Basics](https://github.com/jennerdulce/reading-notes/blob/main/401-class-01.md)
