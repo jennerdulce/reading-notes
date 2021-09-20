@@ -136,4 +136,4 @@ Jim Kwik
 - [Day 31 - Hooks API](https://github.com/jennerdulce/reading-notes/blob/main/401-class-31.md)
 
 ## Code 401 - Java Advanced Software Development
-- [Day 1 - Java Basics](https://github.com/jennerdulce/reading-notes/blob/main/401-class-01.md)
+- [Day 1 - Java Basics](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-01.md)
