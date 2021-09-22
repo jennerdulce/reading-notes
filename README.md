@@ -140,3 +140,6 @@ Jim Kwik
 - [Day 1 - Java Basics](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-01.md)
 
 - [Day 2 - Arrays, Loops, Imports](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-02.md)
+
+- [Day 3 - Maps, primitives, File I/O](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-03.md)
+
