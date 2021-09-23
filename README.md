@@ -143,3 +143,5 @@ Jim Kwik
 
 - [Day 3 - Maps, primitives, File I/O](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-03.md)
 
+- [Day 4 - OOP](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-04.md)
+
