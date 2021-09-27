@@ -145,3 +145,6 @@ Jim Kwik
 
 - [Day 4 - OOP](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-04.md)
 
+- [Day 5 - Linked List](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-05.md)
+
+- [Day 6 - Inheritance and Interfaces](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-06.md)
