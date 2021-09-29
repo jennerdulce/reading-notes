@@ -150,3 +150,5 @@ Jim Kwik
 - [Day 6 - Inheritance and Interfaces](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-06.md)
 
 - [Day 7 - Inheritance Day 2](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-07.md)
+
+- [Day 8 - OO Design](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-08.md)
