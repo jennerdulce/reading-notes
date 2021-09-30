@@ -153,4 +153,4 @@ Jim Kwik
 
 - [Day 8 - OO Design](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-08.md)
 
-- [Day 9 - WRRC and Java](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-08.md)
+- [Day 9 - WRRC and Java](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-09.md)
