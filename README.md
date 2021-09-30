@@ -152,3 +152,5 @@ Jim Kwik
 - [Day 7 - Inheritance Day 2](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-07.md)
 
 - [Day 8 - OO Design](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-08.md)
+
+- [Day 9 - WRRC and Java](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-08.md)
