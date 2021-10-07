@@ -154,3 +154,9 @@ Jim Kwik
 - [Day 8 - OO Design](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-08.md)
 
 - [Day 9 - WRRC and Java](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-09.md)
+
+- [Day 10 - WRRC and Java](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-010.md)
+
+- [Day 12 - Spring RESTful Routing & Static Files](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-012.md)
+
+- [Day 13 - Related Resources and Integration Testing](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-013.md)
