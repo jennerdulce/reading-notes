@@ -161,4 +161,19 @@ Jim Kwik
 
 - [Day 13 - Related Resources and Integration Testing](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-013.md)
 
-- [Day 14 - Trees](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-014.md)
+- [Day 14 - Bcrypt](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-014.md)
+
+
+- [Day 15 - Trees](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-015.md)
+
+- [Day 16 - Spring Authentication](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-016.md)
+
+- [Day 17 - Spring Authorization](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-017.md)
+
+- [Day 18 - Web App Security](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-018.md)
+
+- [Day 19 - Spring and Sockets](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-019.md)
+
+- [Day 26 - Android Fundamentals](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-026.md)
+
+- [Day 27 - Intents, Activities, and SharedPreferences](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-027.md)
