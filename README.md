@@ -177,3 +177,5 @@ Jim Kwik
 - [Day 26 - Android Fundamentals](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-026.md)
 
 - [Day 27 - Intents, Activities, and SharedPreferences](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-027.md)
+
+- [Day 28 - RecyclerView](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-028.md)
