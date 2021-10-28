@@ -179,3 +179,5 @@ Jim Kwik
 - [Day 27 - Intents, Activities, and SharedPreferences](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-027.md)
 
 - [Day 28 - RecyclerView](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-028.md)
+
+- [Day 29 - Room](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-029.md)
