@@ -181,3 +181,8 @@ Jim Kwik
 - [Day 28 - RecyclerView](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-028.md)
 
 - [Day 29 - Room](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-029.md)
+
+- [Day 30 - Hash Tables](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-030.md)
+
+- [Day 31 - Espresson](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-031.md)
+
