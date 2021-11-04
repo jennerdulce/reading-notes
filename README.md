@@ -186,3 +186,8 @@ Jim Kwik
 
 - [Day 31 - Espresson](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-031.md)
 
+- [Day 32 - AWS Amplify and Serverless](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-032.md)
+
+- [Day 33 - GraphQL @connection](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-033.md)
+
+- [Day 34 - Monetization](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-034.md)
