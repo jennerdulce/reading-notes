@@ -191,3 +191,7 @@ Jim Kwik
 - [Day 33 - GraphQL @connection](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-033.md)
 
 - [Day 34 - Monetization](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-034.md)
+
+- [Day 36 - Cognito](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-036.md)
+
+- [Day 37 - S3](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-037.md)
