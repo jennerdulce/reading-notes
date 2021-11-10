@@ -195,3 +195,5 @@ Jim Kwik
 - [Day 36 - Cognito](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-036.md)
 
 - [Day 37 - S3](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-037.md)
+
+- [Day 38 - Intent Filters](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-038.md)
