@@ -197,3 +197,5 @@ Jim Kwik
 - [Day 37 - S3](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-037.md)
 
 - [Day 38 - Intent Filters](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-038.md)
+
+- [Day 39 - Location](https://github.com/jennerdulce/reading-notes/blob/main/Java-401-039.md)
